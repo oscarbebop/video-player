@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://oscarbebop.github.io/video-player/" target="_blank">
     <img src="assets/favicon.svg" alt="Logo" width="100px">
   </a>
 
@@ -10,7 +10,7 @@
     Native video player in html
     <br />
     <br />
-    <a href="#">View Demo</a>
+    <a href="https://oscarbebop.github.io/video-player/">View Demo</a>
     ·
     <a href="https://github.com/oscarbebop/video-player/issues">Report Bug</a>
     ·
